@@ -314,6 +314,10 @@ body {
   border-top: 1px solid #ffffff;
 }
 
+.footer .address {
+  text-align: left;
+}
+
 .footer__menu {
   justify-self: center;
 }
